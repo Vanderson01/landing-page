@@ -2,7 +2,7 @@
 
 Página escrita com HTML e CSS. Modelo de Landing Page.
 
-[Link do Site](https://vanderson01.github.io/JSHoraDoDia/)
+[Link do Site](https://vanderson01.github.io/landing-page/)
 
 
 
